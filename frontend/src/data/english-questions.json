@@ -1,0 +1,58 @@
+{
+  "Communication Skills": [
+    {
+      "question": "Describe a memorable conversation you had. What made it effective or special?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Imagine you are in a job interview. Introduce yourself professionally.",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How would you give feedback to a teammate who made a mistake?",
+      "difficulty": "Hard"
+    }
+  ],
+  "Grammar Practice": [
+    {
+      "question": "Correct this sentence: 'She don't like to read books.'",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the difference between 'since' and 'for'? Explain with examples.",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Fill in the blank: 'Neither of the boys ____ going.'",
+      "difficulty": "Hard"
+    }
+  ],
+  "Vocabulary Building": [
+    {
+      "question": "Use the word 'resilient' in a sentence of your own.",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain the meaning of 'versatile' and use it in context.",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What’s the difference between 'affect' and 'effect'?",
+      "difficulty": "Hard"
+    }
+  ],
+  "Spoken Practice": [
+    {
+      "question": "Talk about your daily routine using present simple tense.",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Narrate a story or incident from your school days.",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Convince your friend to join a coding bootcamp in 1 minute.",
+      "difficulty": "Hard"
+    }
+  ]
+}

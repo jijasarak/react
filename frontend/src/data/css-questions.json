@@ -1,0 +1,58 @@
+{
+  "Selectors": [
+    {
+      "tutorial links": [
+        "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors",
+        "https://www.w3schools.com/css/css_selectors.asp"
+      ]
+    },
+    {
+      "question": "What is the difference between class and ID selectors in CSS?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you select all <p> elements inside a <div> using CSS?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the specificity of the selector '.container .item > p'?",
+      "difficulty": "Hard"
+    }
+  ],
+  "Box Model": [
+    {
+      "tutorial links": [
+        "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model",
+        "https://www.w3schools.com/css/css_boxmodel.asp"
+      ]
+    },
+    {
+      "question": "What are the components of the CSS box model?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How does setting 'box-sizing: border-box' affect layout?",
+      "difficulty": "Medium"
+    }
+  ],
+  "Flexbox": [
+    {
+      "tutorial links": [
+        "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"
+      ]
+    },
+    {
+      "question": "How do you make a flex container and align items in the center?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the difference between 'justify-content' and 'align-items' in Flexbox?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How would you create a responsive row of cards using Flexbox?",
+      "difficulty": "Hard"
+    }
+  ]
+}

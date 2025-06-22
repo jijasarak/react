@@ -1,0 +1,62 @@
+{
+  "JSX": [
+    {
+      "tutorial_links": [
+        "https://reactjs.org/docs/introducing-jsx.html",
+        "https://www.freecodecamp.org/news/what-is-jsx-in-react-js/"
+      ]
+    },
+    {
+      "question": "What is JSX and how is it different from HTML?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Can browsers directly understand JSX? If not, how is it handled?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Give an example of valid JSX syntax and explain it.",
+      "difficulty": "Easy"
+    }
+  ],
+  "Components": [
+    {
+      "tutorial_links": [
+        "https://reactjs.org/docs/components-and-props.html",
+        "https://www.w3schools.com/react/react_components.asp"
+      ]
+    },
+    {
+      "question": "What is the difference between a functional and a class component in React?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you pass data from parent to child component?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What are props in React and why are they important?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Hooks": [
+    {
+      "tutorial_links": [
+        "https://reactjs.org/docs/hooks-intro.html",
+        "https://www.digitalocean.com/community/tutorials/an-introduction-to-react-hooks"
+      ]
+    },
+    {
+      "question": "What is the useState hook and how do you use it?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is useEffect used for in React?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the difference between useEffect and useLayoutEffect?",
+      "difficulty": "Hard"
+    }
+  ]
+}

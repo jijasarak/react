@@ -1,0 +1,84 @@
+{
+  "Basics": [
+    {
+      "tutorialLinks": [
+        "https://nodejs.dev/en/learn/introduction-to-nodejs",
+        "https://www.geeksforgeeks.org/introduction-to-node-js/",
+        "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework"
+      ]
+    },
+    {
+      "question": "What is Node.js and how is it different from JavaScript in the browser?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Why is Node.js single-threaded? How does it handle concurrency?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the role of the event loop in Node.js?",
+      "difficulty": "Medium"
+    }
+  ],
+  "Modules": [
+    {
+      "tutorialLinks": [
+        "https://nodejs.dev/en/learn/the-nodejs-module-system",
+        "https://www.w3schools.com/nodejs/nodejs_modules.asp"
+      ]
+    },
+    {
+      "question": "How do you export and import modules in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the difference between built-in modules and custom modules?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Can you explain CommonJS vs ES6 modules in Node.js?",
+      "difficulty": "Medium"
+    }
+  ],
+  "File System": [
+    {
+      "tutorialLinks": [
+        "https://nodejs.dev/en/learn/working-with-file-system",
+        "https://www.geeksforgeeks.org/node-js-fs-module/"
+      ]
+    },
+    {
+      "question": "How do you read and write files using the fs module?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What are the differences between synchronous and asynchronous file operations?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a Node.js program that reads a file and logs the content line by line.",
+      "difficulty": "Hard"
+    }
+  ],
+  "ExpressJS": [
+    {
+      "tutorialLinks": [
+        "https://expressjs.com/en/starter/installing.html",
+        "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
+        "https://www.freecodecamp.org/news/learn-express-js-in-10-minutes/"
+      ]
+    },
+    {
+      "question": "What is Express.js and why is it used?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you define routes using Express.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain middleware in Express.js with an example.",
+      "difficulty": "Medium"
+    }
+  ]
+}

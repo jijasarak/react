@@ -1,0 +1,64 @@
+{
+  "Elements": [
+    {
+      "question": "What is the difference between block and inline elements in HTML?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the purpose of the <div> and <span> elements?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Can a <div> contain an inline element? Explain with example.",
+      "difficulty": "Easy"
+    }
+  ],
+  "Forms": [
+    {
+      "question": "Explain the use of 'action' and 'method' attributes in a <form> tag.",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What are the differences between radio buttons and checkboxes in HTML forms?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How can you validate user input in HTML without JavaScript?",
+      "difficulty": "Medium"
+    }
+  ],
+  "Tables": [
+    {
+      "question": "What is the use of the <thead>, <tbody>, and <tfoot> tags in an HTML table?",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain how rowspan and colspan work in an HTML table.",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Create a table structure for student records with roll number, name, and marks.",
+      "difficulty": "Easy"
+    }
+  ],
+  "Media": [
+    {
+      "question": "How do you embed an audio file and a video file in HTML?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the purpose of the 'controls', 'autoplay', and 'loop' attributes in media elements?",
+      "difficulty": "Medium"
+    }
+  ],
+  "Forms Advanced": [
+    {
+      "question": "What is the role of input types like email, number, and date in forms?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain how <fieldset> and <legend> enhance accessibility in forms.",
+      "difficulty": "Medium"
+    }
+  ]
+}

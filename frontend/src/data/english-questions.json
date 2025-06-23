@@ -1,57 +1,235 @@
 {
-  "Communication Skills": [
+  "nouns_verbs": [
     {
-      "question": "Describe a memorable conversation you had. What made it effective or special?",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Imagine you are in a job interview. Introduce yourself professionally.",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "How would you give feedback to a teammate who made a mistake?",
-      "difficulty": "Hard"
-    }
-  ],
-  "Grammar Practice": [
-    {
-      "question": "Correct this sentence: 'She don't like to read books.'",
+      "question": "What is a noun? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "What is the difference between 'since' and 'for'? Explain with examples.",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Fill in the blank: 'Neither of the boys ____ going.'",
-      "difficulty": "Hard"
-    }
-  ],
-  "Vocabulary Building": [
-    {
-      "question": "Use the word 'resilient' in a sentence of your own.",
+      "question": "Identify the noun and verb in this sentence: 'The cat sleeps.' (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "Explain the meaning of 'versatile' and use it in context.",
+      "question": "Classify all nouns and verbs in this paragraph. (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "What’s the difference between 'affect' and 'effect'?",
+      "question": "Explain abstract vs. concrete nouns with examples. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Analyze complex sentences to identify multiple verbs and noun phrases. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare regular and irregular verb forms in past tense. (Difficulty: Hard)",
       "difficulty": "Hard"
     }
   ],
-  "Spoken Practice": [
+  "adjectives_adverbs": [
     {
-      "question": "Talk about your daily routine using present simple tense.",
+      "question": "Give an adjective to describe this picture: sunrise. (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "Narrate a story or incident from your school days.",
+      "question": "Transform 'quick' into an adverb. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Differentiate between adjectives and adverbs using examples. (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "Convince your friend to join a coding bootcamp in 1 minute.",
+      "question": "Use five adjectives and five adverbs in one descriptive paragraph. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Rewrite a narrative to improve its descriptive detail by enhancing adjective/adverb usage. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Examine how adverb placement affects sentence meaning in complex sentences. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "tenses": [
+    {
+      "question": "What is simple present tense? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Convert the sentence to past tense: 'She reads a book.' (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain present perfect tense with examples. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare simple past and past perfect with illustrations. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a short story using past continuous, past perfect, and past simple. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Analyze tense consistency across a multi-paragraph essay. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "punctuation": [
+    {
+      "question": "What is the purpose of a full stop? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Use commas to list three colors. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain the use of semicolons vs. commas. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Correct punctuation in this complex sentence: 'Although it rained the match continued'. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Rewrite a paragraph to fix punctuation errors and improve clarity. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Discuss how punctuation affects meaning in legal or academic sentences. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "sentence_structure": [
+    {
+      "question": "What is a simple sentence? Provide an example. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Turn this simple sentence into a compound sentence: 'She sang.' (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Identify the structure of: 'Because it was late, they canceled the trip.' (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Differentiate between compound and complex sentences with examples. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Rewrite a paragraph to increase sentence variety and coherence. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Break down a compound-complex sentence into its core components. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "vocabulary": [
+    {
+      "question": "Select a synonym for 'happy'. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "List antonyms of 'cold'. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Use 'meticulous' in a sentence. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain the difference between 'affect' and 'effect'. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Identify five advanced adjectives in this paragraph. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Discuss how prefixes and suffixes change word meaning. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "conditional_sentences": [
+    {
+      "question": "What is a zero conditional? Provide an example. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Form a first conditional sentence about weather. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain the structure of second conditional. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare second and third conditional forms. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write realistic conditional sentences for past regrets. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Analyze conditionals in literary dialogue: how do they shape meaning? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "modal_verbs": [
+    {
+      "question": "Give an example with 'can'. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Use 'must' in a rule sentence. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain difference between 'may' and 'might'. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare 'should', 'ought to', and 'have to'. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a persuasive paragraph using modal verbs for obligation. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Discuss the subtle differences of modal verbs in expressing politeness. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "question_formation": [
+    {
+      "question": "Create a yes/no question from 'She is coming.' (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Turn 'He plays football.' into a WH\u2011question. (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain question inversion in past simple. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Form tag questions for four different statements. (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Rewrite statements into indirect questions. (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare forming questions in statements vs. questions in indirect speech. (Difficulty: Hard)",
       "difficulty": "Hard"
     }
   ]

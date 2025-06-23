@@ -1,44 +1,4650 @@
 {
-  "Variables": [
+  "variable": [
     {
-      "question": "What is the difference between var, let, and const in JavaScript?",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "How do you declare a variable in JavaScript?",
+      "question": "Describe variable in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "Can a variable declared with const be reassigned?",
+      "question": "How do you use variable in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
-    }
-  ],
-  "Functions": [
+    },
     {
-      "question": "What is a pure function in JavaScript?",
+      "question": "Explain variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain variable in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "Explain function hoisting with an example.",
+      "question": "Compare variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is variable in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain variable in JavaScript? (Difficulty: Hard)",
       "difficulty": "Hard"
     },
     {
-      "question": "How do arrow functions differ from regular functions?",
-      "difficulty": "Medium"
-    }
-  ],
-  "Promises": [
-    {
-      "question": "What is the purpose of a Promise in JavaScript?",
-      "difficulty": "Medium"
+      "question": "How do you use variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     },
     {
-      "question": "What are the three states of a Promise?",
+      "question": "Describe variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain variable in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "data type": [
+    {
+      "question": "How do you use data type in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "How does async/await simplify working with Promises?",
+      "question": "Describe data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare data type in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use data type in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "type conversion": [
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to type conversion in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain type conversion in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use type conversion in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "operator": [
+    {
+      "question": "What is operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "arithmetic operator": [
+    {
+      "question": "Describe arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate arithmetic operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "assignment operator": [
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is assignment operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare assignment operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "comparison operator": [
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain comparison operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "logical operator": [
+  
+    {
+      "question": "What is logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is logical operator in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is logical operator in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "control flow": [
+   
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe control flow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use control flow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "if...else if...else": [
+    {
+      "question": "Write a function to if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is if...else if...else in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is if...else if...else in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "switch case": [
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use switch case in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to switch case in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "for loop": [
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to for loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "while loop": [
+    {
+      "question": "What is while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "do...while loop": [
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use do...while loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to do...while loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use do...while loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "for..in loop": [
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe for..in loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "for...of loop": [
+    {
+      "question": "Compare for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe for...of loop in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use for...of loop in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "break continue": [
+    {
+      "question": "Explain break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare break continue in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare break continue in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use break continue in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "function": [
+    {
+      "question": "How do you use function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use function in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate function in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "array": [
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare array in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "string": [
+    {
+      "question": "What is string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is string in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is string in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "object": [
+    {
+      "question": "Compare object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "date object": [
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to date object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to date object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "math object": [
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare math object in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ]
 }

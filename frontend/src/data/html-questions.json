@@ -1,64 +1,4850 @@
 {
-  "Elements": [
+  "HTML Basics": [
     {
-      "question": "What is the difference between block and inline elements in HTML?",
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Basics in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "What is the purpose of the <div> and <span> elements?",
-      "difficulty": "Easy"
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
     },
     {
-      "question": "Can a <div> contain an inline element? Explain with example.",
-      "difficulty": "Easy"
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ],
-  "Forms": [
+  "HTML Elements": [
     {
-      "question": "Explain the use of 'action' and 'method' attributes in a <form> tag.",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "What are the differences between radio buttons and checkboxes in HTML forms?",
+      "question": "Describe HTML Elements in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "How can you validate user input in HTML without JavaScript?",
+      "question": "Explain HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ],
-  "Tables": [
+  "HTML Attributes": [
     {
-      "question": "What is the use of the <thead>, <tbody>, and <tfoot> tags in an HTML table?",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Explain how rowspan and colspan work in an HTML table.",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Create a table structure for student records with roll number, name, and marks.",
+      "question": "Demonstrate HTML Attributes in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ],
-  "Media": [
+  "HTML Forms": [
     {
-      "question": "How do you embed an audio file and a video file in HTML?",
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "What is the purpose of the 'controls', 'autoplay', and 'loop' attributes in media elements?",
+      "question": "Demonstrate HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ],
-  "Forms Advanced": [
+  "HTML Tables": [
     {
-      "question": "What is the role of input types like email, number, and date in forms?",
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "Explain how <fieldset> and <legend> enhance accessibility in forms.",
+      "question": "Describe HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Tables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Tables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Media": [
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Media in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Media in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML5 Semantic Elements": [
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML5 Semantic Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML5 Semantic Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML APIs": [
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML APIs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML APIs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Accessibility": [
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Accessibility in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Accessibility in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Graphics (Canvas/SVG)": [
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Graphics (Canvas/SVG) in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Links": [
+    {
+      "question": "How do you use HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Links in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Lists": [
+    {
+      "question": "What is HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Lists in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Lists in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Images": [
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Images in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Images in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Block and Inline Elements": [
+    {
+      "question": "Demonstrate HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Block and Inline Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Headings and Paragraphs": [
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Headings and Paragraphs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Meta Tags": [
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Meta Tags in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Global Attributes": [
+    {
+      "question": "Describe HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Global Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Global Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Input Types": [
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Input Types in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Input Types in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Form Attributes": [
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Form Attributes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Form Attributes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Form Elements": [
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Form Elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Form Elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Form Elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Layout Techniques": [
+    {
+      "question": "Demonstrate HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Layout Techniques in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Layout Techniques in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Scripting": [
+    {
+      "question": "How do you use HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Scripting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Scripting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Scripting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Iframes": [
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Iframes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "HTML Entities": [
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to HTML Entities in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Entities in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare HTML Entities in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ]
 }

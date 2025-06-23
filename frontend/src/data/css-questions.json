@@ -1,57 +1,4849 @@
 {
-  "Selectors": [
+  "CSS Basics": [
     {
-      "tutorial links": [
-        "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors",
-        "https://www.w3schools.com/css/css_selectors.asp"
-      ]
-    },
-    {
-      "question": "What is the difference between class and ID selectors in CSS?",
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "How do you select all <p> elements inside a <div> using CSS?",
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare CSS Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "What is the specificity of the selector '.container .item > p'?",
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain CSS Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Selectors": [
+    {
+      "question": "Describe Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Selectors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Selectors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Selectors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Selectors in JavaScript? (Difficulty: Hard)",
       "difficulty": "Hard"
     }
   ],
   "Box Model": [
     {
-      "tutorial links": [
-        "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model",
-        "https://www.w3schools.com/css/css_boxmodel.asp"
-      ]
-    },
-    {
-      "question": "What are the components of the CSS box model?",
+      "question": "Describe Box Model in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "How does setting 'box-sizing: border-box' affect layout?",
+      "question": "Explain Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Box Model in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Box Model in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Colors": [
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Colors in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Colors in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Colors in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Units": [
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Units in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Units in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Typography": [
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Typography in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Typography in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Positioning": [
+    {
+      "question": "Describe Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Positioning in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Positioning in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Display": [
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Display in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Display in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ],
   "Flexbox": [
     {
-      "tutorial links": [
-        "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-        "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"
-      ]
-    },
-    {
-      "question": "How do you make a flex container and align items in the center?",
+      "question": "Demonstrate Flexbox in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "What is the difference between 'justify-content' and 'align-items' in Flexbox?",
+      "question": "What is Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Flexbox in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Flexbox in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "How would you create a responsive row of cards using Flexbox?",
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Flexbox in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Grid": [
+    {
+      "question": "How do you use Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Grid in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Grid in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Float and Clear": [
+    {
+      "question": "Demonstrate Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Float and Clear in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Float and Clear in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Z-index": [
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Z-index in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Media Queries": [
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Media Queries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Media Queries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Pseudo-classes": [
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Pseudo-classes in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Pseudo-classes in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Pseudo-elements": [
+    {
+      "question": "Explain Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Pseudo-elements in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Pseudo-elements in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Pseudo-elements in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Transitions": [
+    {
+      "question": "How do you use Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Transitions in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Transitions in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Transitions in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Animations": [
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Animations in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Transforms": [
+    {
+      "question": "Compare Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Transforms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Transforms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Variables": [
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Variables in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Variables in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Specificity": [
+    {
+      "question": "How do you use Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Specificity in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Specificity in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Specificity in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Responsive Design": [
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Responsive Design in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Overflow": [
+    {
+      "question": "How do you use Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Overflow in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Overflow in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Backgrounds": [
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Backgrounds in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Backgrounds in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Borders": [
+    {
+      "question": "What is Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Borders in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Borders in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Borders in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Borders in JavaScript? (Difficulty: Hard)",
       "difficulty": "Hard"
     }
   ]

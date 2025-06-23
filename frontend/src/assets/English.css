@@ -1,0 +1,68 @@
+/* English.css */
+.english-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 3rem 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.english-heading {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color: #1e3a8a;
+}
+
+.topic-select {
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  margin-bottom: 2.5rem;
+  background-color: #f9fafb;
+  color: #111827;
+  transition: border 0.3s;
+}
+
+.topic-select:focus {
+  border-color: #2563eb;
+  outline: none;
+}
+
+.ai-section {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e5e7eb;
+}
+
+.ai-section h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+.ai-section blockquote {
+  margin: 1rem 0;
+  padding: 1rem 1.5rem;
+  background: #f1f5f9;
+  border-left: 4px solid #3b82f6;
+  font-style: italic;
+  color: #374151;
+  border-radius: 6px;
+}
+
+.question-block {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.question-block h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 0.5rem;
+}

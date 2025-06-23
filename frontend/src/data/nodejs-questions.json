@@ -1,84 +1,226 @@
 {
-  "Basics": [
+  "Introduction to Node.js": [
     {
-      "tutorialLinks": [
-        "https://nodejs.dev/en/learn/introduction-to-nodejs",
-        "https://www.geeksforgeeks.org/introduction-to-node-js/",
-        "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework"
-      ]
-    },
-    {
-      "question": "What is Node.js and how is it different from JavaScript in the browser?",
+      "question": "What is Node.js?",
       "difficulty": "Easy"
     },
     {
-      "question": "Why is Node.js single-threaded? How does it handle concurrency?",
-      "difficulty": "Medium"
+      "question": "Why is Node.js single-threaded?",
+      "difficulty": "Easy"
     },
     {
-      "question": "What is the role of the event loop in Node.js?",
-      "difficulty": "Medium"
+      "question": "What are the advantages of using Node.js?",
+      "difficulty": "Easy"
     }
   ],
-  "Modules": [
+  "Node.js Architecture": [
     {
-      "tutorialLinks": [
-        "https://nodejs.dev/en/learn/the-nodejs-module-system",
-        "https://www.w3schools.com/nodejs/nodejs_modules.asp"
-      ]
-    },
-    {
-      "question": "How do you export and import modules in Node.js?",
+      "question": "Describe the architecture of Node.js.",
       "difficulty": "Easy"
     },
     {
-      "question": "What is the difference between built-in modules and custom modules?",
+      "question": "What is the event loop in Node.js?",
       "difficulty": "Easy"
     },
     {
-      "question": "Can you explain CommonJS vs ES6 modules in Node.js?",
-      "difficulty": "Medium"
+      "question": "How does Node.js handle asynchronous operations?",
+      "difficulty": "Easy"
     }
   ],
-  "File System": [
+  "Modules and require": [
     {
-      "tutorialLinks": [
-        "https://nodejs.dev/en/learn/working-with-file-system",
-        "https://www.geeksforgeeks.org/node-js-fs-module/"
-      ]
-    },
-    {
-      "question": "How do you read and write files using the fs module?",
+      "question": "What are the types of modules in Node.js?",
       "difficulty": "Easy"
     },
     {
-      "question": "What are the differences between synchronous and asynchronous file operations?",
-      "difficulty": "Medium"
+      "question": "How do you use 'require' to import a module?",
+      "difficulty": "Easy"
     },
     {
-      "question": "Write a Node.js program that reads a file and logs the content line by line.",
-      "difficulty": "Hard"
+      "question": "What is the difference between CommonJS and ES modules?",
+      "difficulty": "Easy"
     }
   ],
-  "ExpressJS": [
+  "NPM (Node Package Manager)": [
     {
-      "tutorialLinks": [
-        "https://expressjs.com/en/starter/installing.html",
-        "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
-        "https://www.freecodecamp.org/news/learn-express-js-in-10-minutes/"
-      ]
+      "question": "What is npm?",
+      "difficulty": "Easy"
     },
+    {
+      "question": "How do you install a package globally and locally?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the purpose of package.json and package-lock.json?",
+      "difficulty": "Easy"
+    }
+  ],
+  "File System Module": [
+    {
+      "question": "How do you read and write files in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the difference between synchronous and asynchronous file operations?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you handle file errors in Node.js?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Events and EventEmitter": [
+    {
+      "question": "What is EventEmitter in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you create and emit events?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How does Node.js use the event-driven model?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Streams": [
+    {
+      "question": "What are streams in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What are the different types of streams?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you pipe streams together?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Buffers": [
+    {
+      "question": "What is a Buffer in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do Buffers differ from arrays?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How can you convert a buffer to a string?",
+      "difficulty": "Easy"
+    }
+  ],
+  "HTTP Module": [
+    {
+      "question": "How do you create a basic HTTP server in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How can you handle different routes with the HTTP module?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you send a JSON response using the HTTP module?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Express.js Framework": [
     {
       "question": "What is Express.js and why is it used?",
       "difficulty": "Easy"
     },
     {
-      "question": "How do you define routes using Express.js?",
+      "question": "How do you define routes in Express?",
       "difficulty": "Easy"
     },
     {
-      "question": "Explain middleware in Express.js with an example.",
-      "difficulty": "Medium"
+      "question": "What are middlewares in Express?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Asynchronous Programming": [
+    {
+      "question": "What are callbacks, promises, and async/await?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you handle asynchronous errors?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the callback hell and how do you avoid it?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Error Handling": [
+    {
+      "question": "How do you handle errors in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the difference between operational and programmer errors?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How does Express handle errors?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Working with Databases": [
+    {
+      "question": "How do you connect Node.js to MongoDB or MySQL?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What are ORMs and ODMs?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Mongoose and how is it used?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Authentication & Authorization": [
+    {
+      "question": "What is the difference between authentication and authorization?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you implement JWT in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Passport.js?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Middleware": [
+    {
+      "question": "What is middleware in Express?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you create custom middleware?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What are common types of middleware?",
+      "difficulty": "Easy"
+    }
+  ],
+  "Environment Variables": [
+    {
+      "question": "Why are environment variables important in Node.js?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use dotenv in a Node.js project?",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How can you manage different environments (dev, test, prod)?",
+      "difficulty": "Easy"
     }
   ]
 }

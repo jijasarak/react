@@ -1,61 +1,4865 @@
 {
-  "JSX": [
+  "React Basics": [
     {
-      "tutorial_links": [
-        "https://reactjs.org/docs/introducing-jsx.html",
-        "https://www.freecodecamp.org/news/what-is-jsx-in-react-js/"
-      ]
-    },
-    {
-      "question": "What is JSX and how is it different from HTML?",
+      "question": "Explain React Basics in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "Can browsers directly understand JSX? If not, how is it handled?",
+      "question": "Describe React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Basics in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate React Basics in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "Give an example of valid JSX syntax and explain it.",
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe React Basics in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "JSX": [
+    {
+      "question": "Demonstrate JSX in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
+    },
+    {
+      "question": "Explain JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use JSX in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare JSX in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ],
   "Components": [
     {
-      "tutorial_links": [
-        "https://reactjs.org/docs/components-and-props.html",
-        "https://www.w3schools.com/react/react_components.asp"
-      ]
+      "question": "Explain Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
     },
     {
-      "question": "What is the difference between a functional and a class component in React?",
+      "question": "Write a function to Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Components in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "How do you pass data from parent to child component?",
+      "question": "How do you use Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Props": [
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "What are props in React and why are they important?",
+      "question": "Demonstrate Props in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Props in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Props in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Props in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "State": [
+    {
+      "question": "What is State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use State in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use State in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Lifecycle Methods": [
+    {
+      "question": "Compare Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Lifecycle Methods in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lifecycle Methods in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
     }
   ],
   "Hooks": [
     {
-      "tutorial_links": [
-        "https://reactjs.org/docs/hooks-intro.html",
-        "https://www.digitalocean.com/community/tutorials/an-introduction-to-react-hooks"
-      ]
-    },
-    {
-      "question": "What is the useState hook and how do you use it?",
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Easy)",
       "difficulty": "Easy"
     },
     {
-      "question": "What is useEffect used for in React?",
+      "question": "Explain Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Hooks in JavaScript? (Difficulty: Medium)",
       "difficulty": "Medium"
     },
     {
-      "question": "What is the difference between useEffect and useLayoutEffect?",
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "useState": [
+    {
+      "question": "What is useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain useState in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useState in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "useEffect": [
+    {
+      "question": "Describe useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use useEffect in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useEffect in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "useContext": [
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is useContext in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to useContext in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare useContext in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Event Handling": [
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Event Handling in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Forms": [
+    {
+      "question": "What is Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Forms in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Forms in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Conditional Rendering": [
+    {
+      "question": "Demonstrate Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Conditional Rendering in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Conditional Rendering in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Lists and Keys": [
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lists and Keys in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lists and Keys in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Lifting State Up": [
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Lifting State Up in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "React Router": [
+    {
+      "question": "Describe React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Router in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Context API": [
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Context API in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Context API in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Custom Hooks": [
+    {
+      "question": "Explain Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Custom Hooks in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Refs": [
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Forwarding Refs": [
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Forwarding Refs in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Error Boundaries": [
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Error Boundaries in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Code Splitting": [
+    {
+      "question": "Describe Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Code Splitting in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Code Splitting in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "Higher Order Components": [
+    {
+      "question": "How do you use Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe Higher Order Components in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Compare Higher Order Components in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    }
+  ],
+  "React Performance Optimization": [
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Demonstrate React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a function to React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Compare React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Easy)",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Write a function to React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Compare React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Medium)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Demonstrate React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Describe React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Write a function to React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How do you use React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is React Performance Optimization in JavaScript? (Difficulty: Hard)",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Demonstrate React Performance Optimization in JavaScript? (Difficulty: Hard)",
       "difficulty": "Hard"
     }
   ]

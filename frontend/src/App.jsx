@@ -1,12 +1,9 @@
-import DashboardLayoutWrapper from './components/DashboardLayoutWrapper'
+import DashboardLayoutWrapper from './components/DashboardLayoutWrapper';
+import './App.css'
 
 function App() {
 
-  return (
-    <>
-     <DashboardLayoutWrapper />
-    </>
-  )
+  return <DashboardLayoutWrapper />;
 }
 
-export default App
+export default App;

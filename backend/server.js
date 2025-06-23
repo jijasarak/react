@@ -1,4 +1,3 @@
-// backend/server.js
 require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
@@ -7,11 +6,12 @@ const cookieParser = require("cookie-parser");
 const bcrypt = require("bcrypt");
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
+
 const app = express();
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
-// ✅ Connect MongoDB
+// Connect MongoDB
 mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
@@ -21,17 +21,31 @@ mongoose.connect(process.env.MONGO_URI, {
   console.error("❌ MongoDB Error:", err);
 });
 
-// ✅ Middleware
+// CORS Configuration
+const allowedOrigins = [
+  "http://localhost:5173", // Local Frontend
+  "https://frontend-zeta-gray-43.vercel.app", // Deployed Frontend
+];
+
 app.use(
   cors({
-    origin: "http://localhost:5173",
-    credentials: true,
+    origin: function (origin, callback) {
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
+    credentials: true, // Allow cookies/session handling
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Origin", "X-Requested-With", "Content-Type", "Accept", "Authorization"],
   })
 );
+
 app.use(express.json());
 app.use(cookieParser());
 
-// ✅ User Schema & Model
+// User Schema & Model
 const userSchema = new mongoose.Schema({
   name: String,
   email: { type: String, unique: true },
@@ -39,7 +53,7 @@ const userSchema = new mongoose.Schema({
 });
 const User = mongoose.model("User", userSchema);
 
-// ✅ Signup Route
+// Signup Route
 app.post("/signup", async (req, res) => {
   try {
     const { name, email, password } = req.body;
@@ -58,7 +72,7 @@ app.post("/signup", async (req, res) => {
   }
 });
 
-// ✅ Signin Route
+// Signin Route
 app.post("/signin", async (req, res) => {
   try {
     const { email, password } = req.body;
@@ -76,11 +90,10 @@ app.post("/signin", async (req, res) => {
   }
 });
 
-// ✅ AI: Motivational Quote
+// AI: Motivational Quote
 app.post("/api/motivation", async (req, res) => {
-  const { topic } = req.body;
   try {
-    const prompt = `Give a short motivational quote for a student studying "${topic}". It should be fresh, non-cliché, and spark energy to keep learning.`;
+    const prompt = `Give a short motivational quote for a student studying web development. It should be fresh, non-cliché, and spark energy to keep learning.`;
     const result = await model.generateContent(prompt);
     const quote = result.response.text().trim();
     res.json({ quote });
@@ -92,7 +105,7 @@ app.post("/api/motivation", async (req, res) => {
   }
 });
 
-// ✅ AI: Topic Explanation
+// AI: Topic Explanation
 app.post("/api/explanation", async (req, res) => {
   const { topic } = req.body;
   try {
@@ -108,7 +121,7 @@ app.post("/api/explanation", async (req, res) => {
   }
 });
 
-// ✅ AI: Feedback on Student Answer
+// AI: Feedback on Student Answer
 app.post("/api/feedback", async (req, res) => {
   const { question, userAnswer } = req.body;
   try {
@@ -124,8 +137,10 @@ app.post("/api/feedback", async (req, res) => {
   }
 });
 
-// ✅ Start Server
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`🚀 Server running at http://localhost:${PORT}`);
-});
+// Start Server (ONLY for Local Development)
+if (process.env.NODE_ENV !== "production") {
+  app.listen(process.env.PORT, () => console.log(`Server running on port ${process.env.PORT}`));
+}
+
+// Required for Vercel Deployment
+module.exports = app;
